@@ -32,3 +32,4 @@ A simple expense tracker with a user-friendly GUI built using Python, **Tkinter*
 4. Save your transactions to a CSV file or load them from a CSV file.
 
 ## Sample ScreenShot
+![python_89nFei9CCD](https://github.com/user-attachments/assets/3f53a2cf-d179-4e29-8fe8-2c4e2d75f182)
